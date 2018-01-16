@@ -10,7 +10,7 @@ const styles = {
 const App = () => (
   <div style={styles}>
     <Hello name="Rita" />
-    <h2>Vamos comer!!!!{'\u2728'}</h2>
+    <h2>Vamos comer!¡!!!{'\u2728'}</h2>
     <p>This is just a simple react.js application</p>
   </div>
 );
